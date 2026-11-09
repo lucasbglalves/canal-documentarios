@@ -1,0 +1,100 @@
+[
+  {
+    "id": "abertura",
+    "cauda": 100,
+    "falas": [
+      { "quem": "narrador", "texto": "Tommy e Nico achavam que o pior castigo do mundo era ficar sem mamadeira." },
+      { "quem": "narrador", "texto": "Mas hoje eles foram expulsos de casa, presos na escola, e perseguidos por um monstro de privada!" },
+      { "quem": "tommy", "texto": "Nico, a culpa é toda sua!" },
+      { "quem": "nico", "texto": "Minha? Foi você que deu descarga no pato!" }
+    ]
+  },
+  {
+    "id": "banheiro",
+    "cauda": 20,
+    "falas": [
+      { "quem": "narrador", "texto": "Tudo começou de manhã, no banheiro de casa." },
+      { "quem": "tommy", "texto": "Olha só, Nico! O patinho quer nadar na privada!" },
+      { "quem": "nico", "texto": "Eu sou o Capitão Panela! Dá descarga, marujo!" },
+      { "quem": "narrador", "texto": "Tommy deu descarga. E o pato sumiu pelo cano." },
+      { "quem": "tommy", "texto": "Ih... ele não voltou." },
+      { "quem": "narrador", "texto": "Só que a privada começou a fazer um barulho muito estranho. E a água começou a subir!" },
+      { "quem": "nico", "texto": "Socorro! O banheiro virou piscina!" },
+      { "quem": "pai", "texto": "Tommy! Nico! O que vocês fizeram com a minha casa?!" }
+    ]
+  },
+  {
+    "id": "expulsos",
+    "cauda": 20,
+    "falas": [
+      { "quem": "narrador", "texto": "O papai ficou tão bravo, mas tão bravo, que colocou os dois no quintal." },
+      { "quem": "pai", "texto": "Só voltam para casa quando aprenderem a se comportar!" },
+      { "quem": "narrador", "texto": "E a porta fechou. Pum!" },
+      { "quem": "tommy", "texto": "Fomos expulsos, Nico! E agora, onde a gente vai dormir?" },
+      { "quem": "nico", "texto": "Calma! Eu tenho uma panela e um plano. Vamos para a escola! Lá tem parquinho!" }
+    ]
+  },
+  {
+    "id": "escola",
+    "cauda": 20,
+    "falas": [
+      { "quem": "narrador", "texto": "Os dois engatinharam até a escola e entraram escondidos na sala de aula." },
+      { "quem": "tommy", "texto": "Shhh! Ninguém pode ver a gente." },
+      { "quem": "narrador", "texto": "Mas a panela do Nico bateu na mesa. Blém!" },
+      { "quem": "professora", "texto": "Ora, ora! Dois bebezinhos na minha sala? Detenção para os dois!" },
+      { "quem": "narrador", "texto": "A professora saiu para buscar a chave. Era agora ou nunca." },
+      { "quem": "nico", "texto": "Tommy, segura minha fralda. Vou abrir um buraco na parede com a minha panela!" },
+      { "quem": "narrador", "texto": "Bum! Bum! Bum! E a parede caiu inteirinha." },
+      { "quem": "tommy", "texto": "Uau! Capitão Panela, você é demais!" }
+    ]
+  },
+  {
+    "id": "monstro",
+    "cauda": 15,
+    "falas": [
+      { "quem": "narrador", "texto": "Eles correram e se esconderam no banheiro da escola. Estava tudo escuro." },
+      { "quem": "tommy", "texto": "Nico, você ouviu isso?" },
+      { "quem": "nico", "texto": "Foi a minha barriga... eu acho." },
+      { "quem": "narrador", "texto": "Não era a barriga. A última privada começou a tremer. E a tampa abriu, bem devagar..." },
+      { "quem": "monstro", "texto": "Grrrrr! Paaaaaato!" },
+      { "quem": "tommy", "texto": "Uma privada falante! Corre, Nico, corre!" }
+    ]
+  },
+  {
+    "id": "fuga",
+    "cauda": 15,
+    "falas": [
+      { "quem": "narrador", "texto": "Tommy e Nico correram como nunca tinham corrido na vida. Nem atrás de mamadeira." },
+      { "quem": "nico", "texto": "Ela está pulando atrás da gente!" },
+      { "quem": "tommy", "texto": "Vira à esquerda! Não, a outra esquerda!" },
+      { "quem": "narrador", "texto": "O monstro pulava cada vez mais rápido, e espirrava água para todo lado." },
+      { "quem": "nico", "texto": "Olha lá fora! Uma pilha de tijolos!" }
+    ]
+  },
+  {
+    "id": "forte",
+    "cauda": 20,
+    "falas": [
+      { "quem": "nico", "texto": "Rápido! Vamos construir um forte!" },
+      { "quem": "narrador", "texto": "Tijolo por tijolo, os dois levantaram a muralha mais torta de todo o bairro." },
+      { "quem": "tommy", "texto": "Acho que ficou bom. Só falta não cair." },
+      { "quem": "narrador", "texto": "O monstro chegou, e pulou bem em cima da muralha. Os tijolos voaram para todo lado!" },
+      { "quem": "monstro", "texto": "Não quero comer vocês! Tem um pato entalado no meu cano! Dói muito!" },
+      { "quem": "tommy", "texto": "Espera... é o nosso pato!" },
+      { "quem": "nico", "texto": "Deixa comigo. Capitão Panela ao resgate!" },
+      { "quem": "narrador", "texto": "Nico deu uma panelada nas costas da privada. E... Ploc! O pato voou longe." },
+      { "quem": "monstro", "texto": "Ah, que alívio! Obrigado, bebês!" }
+    ]
+  },
+  {
+    "id": "final",
+    "cauda": 90,
+    "falas": [
+      { "quem": "narrador", "texto": "O monstro ficou tão feliz que levou os dois de volta para casa, e ainda engoliu toda a água do banheiro. Slurp!" },
+      { "quem": "pai", "texto": "Minha casa está limpinha! Tudo bem, vocês podem voltar." },
+      { "quem": "tommy", "texto": "Viu, Nico? Deu tudo certo." },
+      { "quem": "nico", "texto": "Claro! Da próxima vez, a gente dá descarga no ursinho." },
+      { "quem": "narrador", "texto": "Ah, não! Quer saber o que aconteceu com o ursinho? Se inscreva no canal e ative o sininho. Tchau, tchau!" }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "gancho",
+    "cauda": 4,
+    "falas": [
+      { "quem": "reels", "texto": "Um banco fechou no Paraguai. Quatro dias depois, o presidente tinha caído e estava detido em casa." },
+      { "quem": "reels", "texto": "Essa é a história do Ueno Bank." }
+    ]
+  },
+  {
+    "id": "banco",
+    "cauda": 4,
+    "falas": [
+      { "quem": "reels", "texto": "O Ueno virou banco digital em dois mil e vinte e três.", "legenda": "O Ueno virou banco digital em 2023." },
+      { "quem": "reels", "texto": "Em três anos, tinha quase três milhões de clientes. É quase metade do país.", "legenda": "Em 3 anos, tinha quase 3 milhões de clientes. É quase metade do país." }
+    ]
+  },
+  {
+    "id": "quebra",
+    "cauda": 4,
+    "falas": [
+      { "quem": "reels", "texto": "O problema: segundo o Banco Central, ele emprestava demais para empresas dos próprios donos. Se elas não pagam, o dinheiro some." },
+      { "quem": "reels", "texto": "Todo banco precisa deixar uma reserva guardada. Segundo a imprensa, o Ueno usou setenta milhões de dólares dela e não devolveu.", "legenda": "Todo banco precisa deixar uma reserva guardada. Segundo a imprensa, o Ueno usou US$ 70 milhões dela e não devolveu." },
+      { "quem": "reels", "texto": "Aí o Banco Central assumiu o banco e bloqueou contas, cartões e aplicativo." }
+    ]
+  },
+  {
+    "id": "pena",
+    "cauda": 4,
+    "falas": [
+      { "quem": "reels", "texto": "E por que o presidente caiu? Santiago Peña foi sócio do grupo dono do banco até dois mil e vinte e cinco.", "legenda": "E por que o presidente caiu? Santiago Peña foi sócio do grupo dono do banco até 2025." },
+      { "quem": "reels", "texto": "E colocou um ex-chefe do Ueno, Carlos Carvallo, para comandar quem fiscaliza os bancos: o Banco Central." },
+      { "quem": "reels", "texto": "E o banco guardava centenas de milhões de dólares de dinheiro público." }
+    ]
+  },
+  {
+    "id": "queda",
+    "cauda": 4,
+    "falas": [
+      { "quem": "reels", "texto": "Peña renunciou, mas o Congresso decidiu julgá-lo mesmo assim." },
+      { "quem": "reels", "texto": "O Senado tirou ele do cargo com quarenta e quatro votos, e o vice, Pedro Alliana, assumiu.", "legenda": "O Senado tirou ele do cargo com 44 votos, e o vice, Pedro Alliana, assumiu." },
+      { "quem": "reels", "texto": "Depois, a Promotoria mandou deter Peña e Carvallo. Eles são investigados, não condenados." }
+    ]
+  },
+  {
+    "id": "fim",
+    "cauda": 40,
+    "falas": [
+      { "quem": "reels", "texto": "E quem tinha dinheiro lá? Um fundo garante até uns trinta e oito mil dólares por pessoa, pagos aos poucos.", "legenda": "E quem tinha dinheiro lá? Um fundo garante até uns US$ 38 mil por pessoa, pagos aos poucos." },
+      { "quem": "reels", "texto": "Segue para ver o próximo capítulo." }
+    ]
+  }
+]

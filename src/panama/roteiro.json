@@ -1,0 +1,59 @@
+[
+  {
+    "id": "gancho",
+    "cauda": 10,
+    "falas": [
+      { "quem": "documentario", "texto": "Em dois mil e vinte e três, uma empresa pagou quase quatro milhões de dólares.", "legenda": "Em 2023, uma empresa pagou quase 4 milhões de dólares." },
+      { "quem": "documentario", "texto": "Não foi por um navio. Foi só por uma vaga para atravessar oitenta quilômetros de água.", "legenda": "Não foi por um navio. Foi só por uma vaga para atravessar 80 km de água." },
+      { "quem": "documentario", "texto": "E o motivo desse preço absurdo foi a falta de chuva." }
+    ]
+  },
+  {
+    "id": "rota",
+    "cauda": 18,
+    "falas": [
+      { "quem": "documentario", "texto": "Esse trecho é o Canal do Panamá." },
+      { "quem": "documentario", "texto": "Antes dele, um navio que saía de Nova York para São Francisco tinha que contornar a América do Sul inteira." },
+      { "quem": "documentario", "texto": "Eram cerca de vinte e dois mil e quinhentos quilômetros.", "legenda": "Eram cerca de 22.500 km." },
+      { "quem": "documentario", "texto": "Em mil novecentos e catorze, o canal abriu, e a mesma viagem caiu para nove mil e quinhentos.", "legenda": "Em 1914, o canal abriu, e a mesma viagem caiu para 9.500 km." }
+    ]
+  },
+  {
+    "id": "custo",
+    "cauda": 14,
+    "falas": [
+      { "quem": "documentario", "texto": "Esse atalho custou caro." },
+      { "quem": "documentario", "texto": "Somando a tentativa francesa e a obra americana, estima-se que cerca de vinte e cinco mil trabalhadores tenham morrido.", "legenda": "Somando a tentativa francesa e a obra americana, estima-se que cerca de 25 mil trabalhadores tenham morrido." },
+      { "quem": "documentario", "texto": "Muitos deles de malária e febre amarela." }
+    ]
+  },
+  {
+    "id": "eclusas",
+    "cauda": 14,
+    "falas": [
+      { "quem": "documentario", "texto": "E aqui está o detalhe que pouca gente conhece: o canal não é plano." },
+      { "quem": "documentario", "texto": "Ele funciona como uma escada de água. As eclusas erguem os navios vinte e seis metros, até um lago, e depois os descem do outro lado.", "legenda": "Ele funciona como uma escada de água. As eclusas erguem os navios 26 metros, até um lago, e depois os descem do outro lado." },
+      { "quem": "documentario", "texto": "Cada travessia despeja no mar cerca de duzentos milhões de litros de água doce.", "legenda": "Cada travessia despeja no mar cerca de 200 milhões de litros de água doce." },
+      { "quem": "documentario", "texto": "E quem enche esse lago é, basicamente, a chuva." }
+    ]
+  },
+  {
+    "id": "seca",
+    "cauda": 16,
+    "falas": [
+      { "quem": "documentario", "texto": "Em dois mil e vinte e três, a chuva faltou.", "legenda": "Em 2023, a chuva faltou." },
+      { "quem": "documentario", "texto": "O lago baixou, e o canal reduziu a passagem de cerca de trinta e seis navios por dia para menos de vinte e cinco.", "legenda": "O lago baixou, e o canal reduziu a passagem de cerca de 36 navios por dia para menos de 25." },
+      { "quem": "documentario", "texto": "As filas cresceram, e as vagas leiloadas dispararam até aquele recorde de quase quatro milhões.", "legenda": "As filas cresceram, e as vagas leiloadas dispararam até aquele recorde de quase 4 milhões." }
+    ]
+  },
+  {
+    "id": "fim",
+    "cauda": 60,
+    "falas": [
+      { "quem": "documentario", "texto": "Em dois mil e vinte e cinco, com a água de volta, o canal faturou cerca de cinco vírgula sete bilhões de dólares.", "legenda": "Em 2025, com a água de volta, o canal faturou cerca de 5,7 bilhões de dólares." },
+      { "quem": "documentario", "texto": "Quase três bilhões foram para os cofres do Panamá.", "legenda": "Quase 3 bilhões foram para os cofres do Panamá." },
+      { "quem": "documentario", "texto": "Um negócio bilionário que depende de uma coisa que ninguém controla: a chuva." },
+      { "quem": "documentario", "texto": "Por trás de cada lugar, existe um mapa e um dinheiro. Se inscreva para entender os próximos." }
+    ]
+  }
+]

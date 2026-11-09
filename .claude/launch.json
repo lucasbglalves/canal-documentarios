@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remotion",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["remotion", "studio", "--no-open", "--port=3000"],
+      "port": 3000
+    },
+    {
+      "name": "motion-canvas",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "motion-canvas", "start", "--", "--port=9000"],
+      "port": 9000
+    }
+  ]
+}
