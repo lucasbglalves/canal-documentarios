@@ -4,7 +4,7 @@ Responda sempre em português. Antes de qualquer coisa, leia este documento inte
 
 ## O que recebi
 
-A pasta `meu-video-tiktok`, sem `node_modules`, `out` e `.env`. Ela contém o projeto Remotion, as skills em `.claude/skills` e o primeiro documentário completo, o voo 2283 da Voepass, em `src/voepass`. Use esse vídeo como modelo do padrão esperado. O código ainda não está em um repositório remoto.
+O repositório privado `https://github.com/lucasbglalves/canal-documentarios`, clonado sem `node_modules`, `out` e `.env`. Ele contém o projeto Remotion, as skills em `.claude/skills` e o primeiro documentário completo, o voo 2283 da Voepass, em `src/voepass`. Use esse vídeo como modelo do padrão esperado. Trabalhem em branches e façam push para esse repositório.
 
 ## Decisões já tomadas
 
